@@ -16,11 +16,3 @@ Or import in Eclipse and run the `Main` class.
 - `src/com/smartparking/exceptions` — custom exceptions
 - `src/com/smartparking/app` — Main UI
 
-## Features demonstrated
-See `report.pdf` for a mapping of required language features to files.
-
-## Commits
-Make sequential commits: `init project`, `add models`, `add service`, `add exceptions`, `add app main`, `fix fee calc & defensive copy`, `final cleanup`.
-
-## Submission
-Include `report.pdf/docx`, `src/`, `screencast.mp4`.
